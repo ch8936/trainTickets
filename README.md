@@ -1,7 +1,6 @@
 # trainTickets
 12306抢票
 
-[参考链接](https://github.com/xiaoshun007/12306Python)
 
 第一步：下载并安装Anaconda
 [win32位](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86.exe)
@@ -31,7 +30,8 @@ pip install -r requirements.txt
 python hack12306.py
 ```
 
-
+参考链接
+[xiaoshun007/12306Python](https://github.com/xiaoshun007/12306Python)
 
 
 
