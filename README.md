@@ -3,7 +3,9 @@
 
 
 第一步：下载并安装Anaconda
+
 [win32位](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86.exe)
+
 [win64位](https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe) 
 
 第二步：安装/激活环境
@@ -24,6 +26,8 @@ activate trainTickets
 ```
 pip install -r requirements.txt
 ```
+
+用记事本打开``config.ini``文件，按说明修改参数
 
 第四步：运行主程序抢票
 ```
